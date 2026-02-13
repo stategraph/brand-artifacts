@@ -44,21 +44,21 @@ Each available in SVG, PNG, and JPG formats.
 ## Logo Guidelines
 
 ### DO
-✅ Use the blue logo as the primary brand mark
-✅ Maintain aspect ratio when scaling
-✅ Use white logo on dark backgrounds
-✅ Use black logo on light backgrounds
-✅ Give the logo breathing room (minimum clear space)
-✅ Use symbol for favicons and small spaces
-✅ Use wordmark for primary brand placement
+- ✅ Use the blue logo as the primary brand mark
+- ✅ Maintain aspect ratio when scaling
+- ✅ Use white logo on dark backgrounds
+- ✅ Use black logo on light backgrounds
+- ✅ Give the logo breathing room (minimum clear space)
+- ✅ Use symbol for favicons and small spaces
+- ✅ Use wordmark for primary brand placement
 
 ### DON'T
-❌ Distort or stretch the logo
-❌ Change the logo colors (except approved variants)
-❌ Add effects (drop shadows, gradients, outlines)
-❌ Rotate the logo
-❌ Place logo on busy backgrounds
-❌ Recreate or modify the logo
+- ❌ Distort or stretch the logo
+- ❌ Change the logo colors (except approved variants)
+- ❌ Add effects (drop shadows, gradients, outlines)
+- ❌ Rotate the logo
+- ❌ Place logo on busy backgrounds
+- ❌ Recreate or modify the logo
 
 ## File Format Guide
 
